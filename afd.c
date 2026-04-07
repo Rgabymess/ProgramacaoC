@@ -11,6 +11,11 @@
 #define P_FLUTUANTE_SINAL  4
 #define FIM               -1
 
+//Intengrantes:
+//Felipe Hideki Rodrigues Shinozaki RA:10438584
+//Gabriel Franco da Rosa Messora    RA:10438405
+//João Francisco do Nascimento Paulino Marques  RA:10443666
+
 int scanner(const char *str) {
     static int pos = 0;
     char c;
